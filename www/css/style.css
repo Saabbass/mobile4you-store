@@ -1,0 +1,28 @@
+body{
+  background-color: lightsalmon;
+  color: black;
+  font-size: 22px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+form{
+  display: flex;
+  background-color: gray;
+  padding: 10px 20px;
+}
+
+input{
+  display: flex;
+  background-color: lightgrey;
+}
+
+input:hover{
+  cursor: pointer;
+}
+
+table{
+  display: table;
+  flex-direction: column;
+  width: 100%;
+  gap: 8px;
+}
